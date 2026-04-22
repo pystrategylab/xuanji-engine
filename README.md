@@ -8,7 +8,7 @@ PHSL: Xuanji Strategic Audit Terminal 🛡️
 
 Python History Strategy Lab (PHSL) presents the Xuanji Strategic Audit Terminal, an advanced, AI-driven wargaming and strategic simulation system.
 
-Xuanji performs rigorous "Red Team" audits on strategic visions by mapping modern operational plans to historical prototypes. By integrating systems thinking, the principles of Sun Tzu (孙子兵法), and the shifting dynamics of the I Ching (易经) hexagrams, the system quantifies the physical viability of a strategy against real-world environmental noise, friction, and resistance.
+Xuanji acts as a **digital wind tunnel** for strategy, performing rigorous "Red Team" audits on strategic visions by mapping them to historical prototypes and stress-testing them in simulated environments. By integrating systems thinking, the principles of Sun Tzu (孙子兵法), and the shifting dynamics of the I Ching (易经) hexagrams, the system quantifies the physical viability of a strategy against real-world environmental noise, friction, and resistance.
 
 📐 The Core Strategic Axiom
 
