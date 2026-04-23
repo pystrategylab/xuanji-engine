@@ -38,14 +38,38 @@ Physics-Based Stress Testing:
 Interactive UI & Visualizations: A sleek Streamlit dashboard (app.py) combined with matplotlib logic (visualizer.py) to render structural resilience audits and truth curves.
 
 📂 Project StructurePlaintextphsl/
+
 ├── app.py                  # Main Streamlit web application and UI layout
+
 ├── controller.py           # Central nervous system orchestrating Oracle and Engine
+
 ├── engine.py               # Core mathematical and Bayesian calculation engine
+
 ├── oracle.py               # Gemini API integration for historical & intelligence mapping
+
 ├── protocol.py             # Isomorphism protocol for contextual switching
+
 ├── report_generator.py     # CLI-based comprehensive strategy report generation
+
 ├── visualizer.py           # Custom Matplotlib plotting library (Truth curves, SIP, ERT)
+
 └── __init__.py             # Package initialization
-🚀 Installation & Setup1. Clone the repository and navigate to the project directory:(Ensure you have Python 3.8+ installed)2. Install required dependencies:Bashpip install streamlit google-genai matplotlib pandas numpy
+
+🚀 Installation & Setup
+1. Clone the repository and navigate to the project directory:(Ensure you have Python 3.8+ installed)
+2. Install required dependencies:Bashpip install streamlit google-genai matplotlib pandas numpy
 3. Configure Network/Proxy (If applicable):By default, oracle.py is configured with local proxies (http://127.0.0.1:7890). If you are running this in an environment without proxy requirements, you may need to comment out lines 10-11 in oracle.py.💻 UsageRun the Streamlit application from your terminal:Bashstreamlit run app.py
-Operating the Terminal:Open the local web address provided by Streamlit (usually http://localhost:8501).In the sidebar console, enter your Google Gemini API Key.Input your Strategic Vision Description (e.g., "The impact of the Belt and Road Initiative on restructuring global supply chains...").Click "⚡ 启动全领域审计" (Initiate All-Domain Audit).Review the generated intelligence reports, historical isomorphism mappings, and physics-based stress test charts.🛠️ System Components BreakdownThe Oracle (oracle.py): Acts as the Chief Auditing Officer. It enforces logical dimensionality reduction, applies real-time intelligence gathering, and matches inputs with evolutionary or military history.The Engine (engine.py): Executes the mathematical heavy lifting. It applies noise filters to leverage factors, ensuring that technological or structural advantages decay appropriately in high-noise environments.The Visualizer (visualizer.py): Generates high-fidelity, cyberpunk-styled (dark theme) charts to visualize the Monte Carlo truth curves and strategic hedge auditing.
+
+Operating the Terminal:
+
+Open the local web address provided by Streamlit (usually http://localhost:8501).In the sidebar console, enter your Google Gemini API Key.Input your Strategic Vision Description (e.g., "The impact of the Belt and Road Initiative on restructuring global supply chains...").Click "⚡ 启动全领域审计" (Initiate All-Domain Audit).
+
+Review the generated intelligence reports, historical isomorphism mappings, and physics-based stress test charts.
+
+🛠️ System Components Breakdown
+
+The Oracle (oracle.py): Acts as the Chief Auditing Officer. It enforces logical dimensionality reduction, applies real-time intelligence gathering, and matches inputs with evolutionary or military history.
+
+The Engine (engine.py): Executes the mathematical heavy lifting. It applies noise filters to leverage factors, ensuring that technological or structural advantages decay appropriately in high-noise environments.
+
+The Visualizer (visualizer.py): Generates high-fidelity, cyberpunk-styled (dark theme) charts to visualize the Monte Carlo truth curves and strategic hedge auditing.
