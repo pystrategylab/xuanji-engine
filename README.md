@@ -20,7 +20,7 @@ Dimensional Variables:
 
 $E$ (Strategic Effectiveness): The actualized impact of the strategy.  
 $P$ (Resource Pressure): The resources and effort applied.  
-$ssc\_d$ (SSC Density / Logical Density): The binding strength between the strategic vision and physical assets (prior probability of success).  
+$ssc\_d$ (SSC Density / Logical Density): The binding strength between the strategic vision and physical assets, which is mathematically equivalent to the likelihood P(E|H) in Bayes' theorem.  
 $L$ (Leverage): The strategic multiplier (e.g., technological generation gaps).  
 $I$ (Inertia): The inherent resistance or friction of the target environment.  
 $vol$ (Volatility): Geopolitical or market fluctuations.
