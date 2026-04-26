@@ -58,7 +58,8 @@ Interactive UI & Visualizations: A sleek Streamlit dashboard (app.py) combined w
 🚀 Installation & Setup
 1. Clone the repository and navigate to the project directory:(Ensure you have Python 3.8+ installed)
 2. Install required dependencies:Bashpip install streamlit google-genai matplotlib pandas numpy
-3. Configure Network/Proxy (If applicable):By default, oracle.py is configured with local proxies (http://127.0.0.1:7890). If you are running this in an environment without proxy requirements, you may need to comment out lines 10-11 in oracle.py.💻 UsageRun the Streamlit application from your terminal:Bashstreamlit run app.py
+3. Configure Network/Proxy (If applicable):By default, oracle.py is configured with local proxies (http://127.0.0.1:7890). If you are running this in an environment without proxy requirements, you may need to comment out lines 10-11 in oracle.py.
+4. 💻 Usage  Run the Streamlit application from your terminal:Bash streamlit run app.py
 
 Operating the Terminal:
 
