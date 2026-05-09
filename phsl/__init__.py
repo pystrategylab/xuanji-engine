@@ -4,5 +4,4 @@ from .controller import XuanjiController
 from .oracle import StrategicOracle
 from .visualizer import PHSLVisualizer
 from .report_generator import StrategicReportGenerator
-from .pdf_exporter import XuanjiPDFReport
 from .arena import XuanjiValidator
